@@ -18,7 +18,7 @@
 
 ## Folder Structure
 These are the controllers:
-```js
+```
 /controllers/*
 /controllers/showings.js
 /controllers/seats.js
@@ -26,7 +26,7 @@ These are the controllers:
 ```
 
 These are the models:
-```js
+```
 /models/*
 /models/showing.js
 /models/seat.js
