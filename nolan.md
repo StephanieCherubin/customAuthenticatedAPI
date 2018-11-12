@@ -1,5 +1,5 @@
 # Psuedocode for Project
-> By Nolan Kovacik
+> Written by Nolan Kovacik & Collaborators
 > From <a href="http://learnmongodbthehardway.com/schema/theater/">this source</a>
 
 
