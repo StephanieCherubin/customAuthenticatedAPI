@@ -15,3 +15,20 @@
 	- [ ] EDIT reservation *(see reservation update form)*
 	- [ ] UPDATE reservation *(make internal changes to reservations)*
 	- [ ] DESTROY reservation *(cancel reservation)*
+
+## Folder Structure
+These are the controllers:
+```s
+/controllers/*
+/controllers/showings.js
+/controllers/seats.js
+/controllers/reservations.js
+```
+
+These are the models:
+```s
+/models/*
+/models/showing.js
+/models/seat.js
+/models/reservation.js
+```
