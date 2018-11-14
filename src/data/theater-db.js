@@ -1,4 +1,4 @@
-/* Mongoose Connection */
+// Mongoose Connection
 const mongoose = require("mongoose")
 assert = require("assert")
 
