@@ -9,19 +9,19 @@ const dbName = 'theater'
 let db = null
 
 MongoClient.connect(url, function(err, client) {
-    assert.equal(null, err);
-    console.log("Connected successfully to server")
-  
-    db = client.db(dbName);
+	assert.equal(null, err);
+	console.log("Connected successfully to server")
+
+	db = client.db(dbName);
 })
 
 // Example stub:
 app.get('/theater/name-of-route', (req, res) => {
-  res.json({'stub': `[${req.originalUrl}] Endpoint works! Replace me in Part 2.`})
+	res.json({'stub': `[${req.originalUrl}] Endpoint works! Replace me in Part 2.`})
 })
 
 app.get('/theater/')
 
 app.listen(3000, () => {
-  console.log('Example app listening on port 3000!')
+	console.log('Example app listening on port 3000!')
 })
