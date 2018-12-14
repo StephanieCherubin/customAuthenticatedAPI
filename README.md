@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pseudocode for Project
 > Written by Nolan Kovacik & Collaborators
 > From <a href="http://learnmongodbthehardway.com/schema/theater/">this source</a>
@@ -32,3 +33,6 @@ These are the models:
 /models/seat.js
 /models/reservation.js
 ```
+=======
+# customAuthenticatedAPI
+>>>>>>> 9790776db9727b5f6c08ea54176d1517d4abdc8d
