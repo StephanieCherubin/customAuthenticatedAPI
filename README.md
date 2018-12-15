@@ -26,7 +26,7 @@ npm start
 	-  UPDATE reservation *(make internal changes to reservations)*
 	-  DESTROY reservation *(cancel reservation)*
 
-##User Routes
+## User Routes
 - POST /register
 - POST /auth
 ## Folder Structure
