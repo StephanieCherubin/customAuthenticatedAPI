@@ -2,7 +2,7 @@
 
 > RESTful API built with Node.js, Restify, Mongoose and JWT. It uses 'jsonwebtoken' to create the token and restify-jwt-community to protect routes.
 
-## Quick Start
+## Getting Started
 
 ```bash
 # Install dependencies
@@ -12,7 +12,7 @@ npm install
 npm start
 ```
 ## API Endpoints
-## Routes
+### Routes
 -  Sessions
 	-  INDEX sessions *(see all times of movies)*
 -  Seats
@@ -26,10 +26,10 @@ npm start
 	-  UPDATE reservation *(make internal changes to reservations)*
 	-  DESTROY reservation *(cancel reservation)*
 
-## User Routes
+### User Routes
 - POST /register
 - POST /auth
-## Folder Structure
+### Folder Structure
 These are the controllers:
 ```
 /controllers/*
